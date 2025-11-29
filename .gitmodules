@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:RapportTecnologia/esp32-pix-firmware.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:RapportTecnologia/esp32-pix-frontend.git
